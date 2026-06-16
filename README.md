@@ -1,9 +1,6 @@
 # 🏠 Bengaluru House Price Prediction
 
 A Machine Learning project that predicts house prices in Bengaluru based on various property features such as location, total square feet, number of bedrooms, and bathrooms.
-
-# 🏠 Bengaluru House Price Prediction
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/sanjanakumari477/Bengaluru-House-Price-Prediction/main/house%20img.jpg" width="700">
 </p>
