@@ -6,7 +6,6 @@ A Machine Learning project that predicts house prices in Bengaluru based on vari
 </p>
 
 ## 📌 Project Overview
-
 The real estate market in Bengaluru is dynamic and influenced by multiple factors. This project uses Machine Learning techniques to analyze housing data and predict property prices accurately.
 
 ## 🚀 Features
